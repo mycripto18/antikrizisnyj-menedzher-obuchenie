@@ -1,0 +1,2 @@
+User-agent: Yandex
+Sitemap: https://kursy-direktora-po-marketingu.vercel.app/sitemap.xml
