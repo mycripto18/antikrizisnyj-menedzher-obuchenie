@@ -1,2 +1,3 @@
 User-agent: Yandex
-Sitemap: https://kursy-direktora-po-marketingu.vercel.app/sitemap.xml
+
+Sitemap: https://antikrizisnyj-menedzher-obuchenie.vercel.app/sitemap.xml
